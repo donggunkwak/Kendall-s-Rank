@@ -1,0 +1,285 @@
+query,rank,sentence,label,label_text,score
+I dropped my credit card in the river.,1,Help! I lost my card!,41,lost_or_stolen_card,0.6
+I dropped my credit card in the river.,2,"i need help, i lost my card",41,lost_or_stolen_card,0.6
+I dropped my credit card in the river.,3,My card has gone missing.,41,lost_or_stolen_card,0.6
+I dropped my credit card in the river.,4,My card has been lost / stolen,41,lost_or_stolen_card,0.6
+I dropped my credit card in the river.,5,"help, lost my card",41,lost_or_stolen_card,0.6
+I dropped my credit card in the river.,6,My card is missing.,41,lost_or_stolen_card,0.6
+I dropped my credit card in the river.,7,I lost my card,41,lost_or_stolen_card,0.6
+I dropped my credit card in the river.,8,"I can't find my card, it is lost.",41,lost_or_stolen_card,0.2
+I dropped my credit card in the river.,9,How do I replace a stolen card?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,10,I can't find my card! Can you help?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,11,My card is missing.  Please help.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,12,I think that my card has been stolen!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,13,My card was stolen,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,14,"My card has been stolen. I reported it with the police, but I need to report it with you as well.",41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,15,My card has been stolen what do I do?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,16,My card is lost!  Please help me!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,17,I believe that my card has been stolen!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,18,What should I do if I think my card was stolen?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,19,I think my card is stolen!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,20,"Help!  I fear that my card was stolen,",41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,21,Someone stole my card!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,22,How can I report that my card was stolen? I made a police report first.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,23,My card is missing!  Help!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,24,What can I do if I lost my card?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,25,I think that the card is stolen.  What are my next steps?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,26,What do I do if my card is stolen?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,27,My card is stolen.  Help!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,28,Report stolen card,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,29,Help!  My card is stolen.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,30,I have lost my card! What is my next step?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,31,My card has been lost! help!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,32,What do I do if my card has been lost or stolen?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,33,oh my god I lost my card! what should I do?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,34,I can't find my card!  What should I do?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,35,What is the first step that I should take after my card has been stolen?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,36,My card was stolen. What do I need to do?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,37,Please help me.  My card is missing.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,38,What are the steps I need to do if I have a stolen card?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,39,I cant find my card.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,40,I think my card is lost.  What do I do?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,41,What should I do if my card is stolen?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,42,Need help with a stolen card.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,43,How do I report my card as lost or stolen?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,44,I've lost my card. What can I do about that?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,45,I lost my card. Can you help me?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,46,What should I do?  My card has been stolen!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,47,My card was stolen last night.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,48,"My card info was stolen, what do I do?",22,compromised_card,0.1
+I dropped my credit card in the river.,49,I can't find my card and think it may have been stolen.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,50,"Someone stole my card. I need to report it stolen. I made a police report already, but how do I report it with you?",41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,51,My card is lost! What can I do?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,52,"I believe my card has been stolen, what can I do about this situation? It's urgent.",41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,53,Help! Someone stole my card!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,54,Help.  I have a stolen card!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,55,How do I report my card stolen?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,56,How do I deal with a stolen card?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,57,Help!  I can't find my card.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,58,What should I do if I lost my card?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,59,I think my card was stolen.,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,60,Somehow I am missing my card.  What should I do?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,61,My card is lost! What do I do now?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,62,How do I report a stolen card?,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,63,"Somebody has stolen my card, I need help please.",41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,64,My card got stolen!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,65,Help me please!  My card was stolen!,41,lost_or_stolen_card,0.1
+I dropped my credit card in the river.,66,"I topped up recently and saw the money go through, but now it's just gone? What's going on",61,top_up_reverted,0.1
+I dropped my credit card in the river.,67,"My money is gone. I had topped up recently and saw it was there and went through, but now it's disappeared, what's going on?",61,top_up_reverted,0.1
+I dropped my credit card in the river.,68,"My money has disappeared. I had recently added money in, and saw it was there and went through. Now it's gone. What is happening?",61,top_up_reverted,0.1
+I dropped my credit card in the river.,69,"Something is wrong, my top-up is gone and I don't know what happened to my money.",61,top_up_reverted,0.1
+I dropped my credit card in the river.,70,My money is nowhere to be found? I talked up earlier and seen it. Now it has vanished. What is going on?,61,top_up_reverted,0.1
+I dropped my credit card in the river.,71,"My money is gone. I had topped up recently and saw it was there and went through, but now it's disappeared, what is happening?",61,top_up_reverted,0.1
+I dropped my credit card in the river.,72,"My money is gone :( I had topped up recently and saw it was there and went through, but now it's disappeared, what's going on?",61,top_up_reverted,0.1
+I dropped my credit card in the river.,73,"My money is gone. I had topped up recently and saw it was there, but now it's disappeared, what's going on?",61,top_up_reverted,0.1
+I dropped my credit card in the river.,74,"My money's disappeared from my account! I topped up the other day and it was there, but now it's not. Help?",61,top_up_reverted,0.1
+I dropped my credit card in the river.,75,I topped up and now my money is not there anymore! What happened to it?,61,top_up_reverted,0.1
+I dropped my credit card in the river.,76,Why has my money disappeared? I topped up earlier and seen it was there and had went through. What seems to be the problem?,61,top_up_reverted,0.1
+I dropped my credit card in the river.,77,"My money has gone missing. I had recently added money in, and saw it was there and went through. Now it's missing. What is happening?",61,top_up_reverted,0.1
+I dropped my credit card in the river.,78,I put money in my account a week ago but its still not there?? What happened to my money?,6,balance_not_updated_after_cheque_or_cash_deposit,0.1
+I dropped my credit card in the river.,79,"I tried topping up using my card, but the money is gone?",62,topping_up_by_card,0.1
+I dropped my credit card in the river.,80,"I used my card to top up, but the money is not there!",62,topping_up_by_card,0.1
+I dropped my credit card in the river.,81,I used my card top-up but all of the money is missing.,62,topping_up_by_card,0.1
+I dropped my credit card in the river.,82,"I attempted to top up using my card, but now the money just disappeared?",62,topping_up_by_card,0.1
+I dropped my credit card in the river.,83,"When I tried to top up using my card, all of the money disappeared.",62,topping_up_by_card,0.1
+I dropped my credit card in the river.,84,"I used my card to top up, but now I don't see the money in my account.",62,topping_up_by_card,0.1
+I dropped my credit card in the river.,85,The money disappeared when I tried to use my card to top up.,62,topping_up_by_card,0.1
+I dropped my credit card in the river.,86,I wasn't able to use my top up card because the money I put on there wasn't there anymore,62,topping_up_by_card,0.1
+I dropped my credit card in the river.,87,I was attempting to top up with my card but the money has vanished!,62,topping_up_by_card,0.1
+I dropped my credit card in the river.,88,"I tried to top off using the card, but the money just disappeared?",62,topping_up_by_card,0.1
+I dropped my credit card in the river.,89,I used my card to top-up but the money is gone!,62,topping_up_by_card,0.1
+I dropped my credit card in the river.,90,My money disappeared right when I tried to top up,62,topping_up_by_card,0.1
+I dropped my credit card in the river.,91,"I tried to top up using my card, but now the money just disappeared!",62,topping_up_by_card,0.1
+I dropped my credit card in the river.,92,I tried to use my card to top up but all of the money has disappeared.,62,topping_up_by_card,0.1
+I dropped my credit card in the river.,93,I need to report a stolen card,41,lost_or_stolen_card,0.0
+I dropped my credit card in the river.,94,Help Me!  I lost my card.  What should I do?,41,lost_or_stolen_card,0.0
+I dropped my credit card in the river.,95,"I lost my card, what do I do now?",41,lost_or_stolen_card,0.0
+I dropped my credit card in the river.,96,What do I do if my card was stolen.,41,lost_or_stolen_card,0.0
+I dropped my credit card in the river.,97,"card is lost, please help",41,lost_or_stolen_card,0.0
+I dropped my credit card in the river.,98,How do I report my card lost or stolen?,41,lost_or_stolen_card,0.0
+I dropped my credit card in the river.,99,I topped up my card but the money disappeared.,62,topping_up_by_card,0.0
+My card declines when I pay for my meal.,1,Today I used my card at a restaurant and it was declined. Why?,14,card_not_working,0.85
+My card declines when I pay for my meal.,2,Why did my payment get declined?,27,declined_transfer,0.85
+My card declines when I pay for my meal.,3,Why does my card continually get declined? I thought I had enough money in there but I've tried several times now and it still isn't working.,27,declined_transfer,0.85
+My card declines when I pay for my meal.,4,Why has my card been declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,5,"I was out today looking forward to paying with my new card, but the payment just kept getting declined. This is really sad, what's going on?",25,declined_card_payment,0.85
+My card declines when I pay for my meal.,6,Can you tell me why my card keeps getting declined every time I try to use it?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,7,Why are all my card payments being declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,8,Why has my payment been declined? I paid by card.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,9,Why was my card declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,10,My payment card was declined - could you tell me why?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,11,Why was my payment declined? I keep trying my card but it's not working.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,12,My card was declined,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,13,"my card payment has been declined, do you know why?",25,declined_card_payment,0.85
+My card declines when I pay for my meal.,14,My credit card has been declined.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,15,Why did my card payment get declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,16,Why won't you accept my payment? I keep trying with this card and it's not working.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,17,My card payment is being declined and I've tried several times.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,18,My card payment has been declined,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,19,I've tried using my card multiple times and it keeps getting declined.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,20,Why is it saying my card payment is declined when I made it?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,21,Why do you keep declining my payment?I tried several times with this card and it is just not working.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,22,"My card payment has been declined, why?",25,declined_card_payment,0.85
+My card declines when I pay for my meal.,23,"I made a card payment, but it has been declined?",25,declined_card_payment,0.85
+My card declines when I pay for my meal.,24,I had a decline on my card. Why?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,25,My payment was declined,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,26,Why was the payment on my card declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,27,What is going on with it saying my card payment was declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,28,I had a card payment that was declined.  Why?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,29,How come my card payment has been declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,30,"I have enough money in my account, so why is my card being declined?",25,declined_card_payment,0.85
+My card declines when I pay for my meal.,31,"I was out today looking forward to paying with my new card, turns out the payment kept getting declined. This is really sad, what's going on?",25,declined_card_payment,0.85
+My card declines when I pay for my meal.,32,Card payment has be declined.,53,reverted_card_payment?,0.85
+My card declines when I pay for my meal.,33,When I try and to buy something using my card it keeps getting declined.,27,declined_transfer,0.85
+My card declines when I pay for my meal.,34,My credit card was declined.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,35,Why was my card payment declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,36,I was trying to purchase something at the store today and my card has been declined.  Why has this happened?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,37,Why did it decline my payment?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,38,My card declined,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,39,"I was out today looking forward to pay with my new card, turns out the payment just kept getting declined. This is really sad, what's going on?",25,declined_card_payment,0.85
+My card declines when I pay for my meal.,40,Why was a transaction on my card declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,41,Why was my Payment declined,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,42,They declined my card payment.,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,43,Why has my card payment been declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,44,Card payment declined?,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,45,"I tried using my card and it kept getting declined, Why?",25,declined_card_payment,0.85
+My card declines when I pay for my meal.,46,Why do you keep declining my payment? I tried several times already with this card and it's just not working,25,declined_card_payment,0.85
+My card declines when I pay for my meal.,47,My credit card got declined for top up! What's going on? Can you check on why it didn't go through?,59,top_up_failed,0.85
+My card declines when I pay for my meal.,48,My account shows the card payment cancelled.,53,reverted_card_payment?,0.85
+My card declines when I pay for my meal.,49,Why was my card declined in a shop?,25,declined_card_payment,0.8
+My card declines when I pay for my meal.,50,Why is my payment declined? It looked like everything worked ok and my account was fine.,25,declined_card_payment,0.8
+My card declines when I pay for my meal.,51,Why do you keep declining my payment? I tried several times already with this card and it is just not working.,25,declined_card_payment,0.8
+My card declines when I pay for my meal.,52,"I was out today looking forward to paying with my brand new card, turns out the payment just kept getting declined. This is pretty sad, what's going on?",25,declined_card_payment,0.8
+My card declines when I pay for my meal.,53,What could the reason be that my payment card was declined?,25,declined_card_payment,0.8
+My card declines when I pay for my meal.,54,"I have a card payment that was declined, but why?",25,declined_card_payment,0.8
+My card declines when I pay for my meal.,55,My credit card seems to have been declined for top up. Why is it not going through? Can you tell me what's going on?,59,top_up_failed,0.8
+My card declines when I pay for my meal.,56,"Card payment was declined, do you know why?",25,declined_card_payment,0.75
+My card declines when I pay for my meal.,57,Why did my credit card get declined for top up?,59,top_up_failed,0.75
+My card declines when I pay for my meal.,58,My card payment was cancelled.,53,reverted_card_payment?,0.75
+My card declines when I pay for my meal.,59,What was the cause for my card to be declined?,26,declined_cash_withdrawal,0.7
+My card declines when I pay for my meal.,60,Do you know why my card payment has been declined?,25,declined_card_payment,0.7
+My card declines when I pay for my meal.,61,Why has my card declined,25,declined_card_payment,0.7
+My card declines when I pay for my meal.,62,Why do you keep declining my payment?I tried several times already with this card and it is just not working.,25,declined_card_payment,0.7
+My card declines when I pay for my meal.,63,Why has my card been declined?  whats the deal?,25,declined_card_payment,0.7
+My card declines when I pay for my meal.,64,Do you know why my card payment is declined?,25,declined_card_payment,0.7
+My card declines when I pay for my meal.,65,What's the problem? My card keeps getting declined for top up. I need to know what is going on.,59,top_up_failed,0.7
+My card declines when I pay for my meal.,66,"My card keeps getting declined when I try to use it.  I would like to top-up, but it is not going though.",59,top_up_failed,0.7
+My card declines when I pay for my meal.,67,I was trying to top-up and my credit card was declined. Can you tell me why?,59,top_up_failed,0.7
+My card declines when I pay for my meal.,68,What is the reason for my card payment to be reverted?,53,reverted_card_payment?,0.7
+My card declines when I pay for my meal.,69,Looks like my card payment was cancelled.,53,reverted_card_payment?,0.7
+My card declines when I pay for my meal.,70,My card payment's cancelled,53,reverted_card_payment?,0.7
+My card declines when I pay for my meal.,71,I really need to top-up my card today urgently but my card keeps getting declined!! Can you please help me with this problem or let me know if you have any alternatives,59,top_up_failed,0.65
+My card declines when I pay for my meal.,72,Tell me why my card payment has been declined.,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,73,I am very upset that i went to use my new card today and it kept getting declined. Why is this happening and what do I do to not have it declined?,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,74,What are the reasons why a card payment would be declined?,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,75,can you tell me why my card was declined?,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,76,Please explain why my payment was declined? I thought everything was good.,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,77,I was wondering why my card was declined,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,78,Why was my new card declined?,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,79,I don't understand why my payment was declined. I thought everything was ok.,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,80,The card payment is declined.  Please inform me why.,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,81,Why would a card payment be declined?,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,82,Do you know the reason why my card payment was declined?,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,83,Why have you declined my card payment?,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,84,Tell me why my card payment was declined.,25,declined_card_payment,0.6
+My card declines when I pay for my meal.,85,"I finally got my new card and was very excited to use it today. However, my payment kept declining. What is happening?",25,declined_card_payment,0.6
+My card declines when I pay for my meal.,86,I really need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or try an alternative,59,top_up_failed,0.6
+My card declines when I pay for my meal.,87,I urgently need to top-up my card but its getting declined. Please help me in this or advise with other options if any.,59,top_up_failed,0.6
+My card declines when I pay for my meal.,88,I need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives,59,top_up_failed,0.6
+My card declines when I pay for my meal.,89,My credit card was just denied for top up! Can you tell me why this happened and what's going on?,59,top_up_failed,0.6
+My card declines when I pay for my meal.,90,I really need to top-up my card today urgently but my card keeps getting declined!! Can you please resolve this problem or let me know if you have any alternatives,59,top_up_failed,0.6
+My card declines when I pay for my meal.,91,"I desperately need to top-up my card, so why is it being declined? Can you solve this for me? I need to use my card immediately!",59,top_up_failed,0.6
+My card declines when I pay for my meal.,92,Could you please recommend what I should do if my card keeps getting declined?  I planned to top-up today but I am unable to get it to work.  I need a fast solution to this problem.,59,top_up_failed,0.6
+My card declines when I pay for my meal.,93,I am having a huge problem with my card being declined and it's really important that I top-up today.  Would you please look into this further and let me know how I can get this fixed?,59,top_up_failed,0.6
+My card declines when I pay for my meal.,94,I'm not recognizing the card payment.,16,card_payment_not_recognised,0.6
+My card declines when I pay for my meal.,95,Tell me why my card payment would be reverted.,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,96,"My card payment was reverted, why?",53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,97,I used my card to make a payment and wondered why the payment was reverted?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,98,My card payment was reverted,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,99,Why was my card payment reversed?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,100,My card payment was reverted.  Why?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,101,Can you tell my why my card payment has been reverted.,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,102,Why has my card payment been reverted?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,103,Why was my card payment reverted?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,104,My card payment has been cancelled,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,105,Why would my card payment be cancelled?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,106,What reasons would cause my card payment to be cancelled?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,107,Seems like my card payment has been cancelled,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,108,My card payment was cancelled it seems.,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,109,I think my card payment was cancelled. What happened?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,110,I think a card payment I made was cancelled.,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,111,Why is my card payment cancelled?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,112,Can you tell me why my card payment was cancelled?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,113,My card payment was cancelled.  Why?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,114,I think a payment I made with a card was cancelled.,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,115,Why was my card payment cancelled?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,116,What is the reason that my card payment was cancelled?,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,117,There was a canceled payment for my card.,53,reverted_card_payment?,0.6
+My card declines when I pay for my meal.,118,Can you tell me why my credit card was declined while trying to top-up?,59,top_up_failed,0.3
+My card declines when I pay for my meal.,119,I think my card payment was reverted,53,reverted_card_payment?,0.3
+My card declines when I pay for my meal.,120,I do not recognise this card payment.,16,card_payment_not_recognised,0.2
+My card declines when I pay for my meal.,121,I think my card payment has been reverted,53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,122,Why has my card payment been reversed?,53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,123,Why would my card payment be reverted?,53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,124,Was my card payment reverted?,53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,125,I made a payment with my card that was cancelled?,53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,126,I believe that a card payment I made was cancelled.,53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,127,Did a card payment that I made get cancelled?,53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,128,"I think a card payment I made was cancelled, can you check?",53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,129,"I noticed my card payment was cancelled, can you tell me why?",53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,130,Why has my card payment been cancelled?,53,reverted_card_payment?,0.2
+My card declines when I pay for my meal.,131,Why would you decline my card?,25,declined_card_payment,0.1
+My card declines when I pay for my meal.,132,"I'm not sure why my payment has been declined? Please tell me why, I thought it was all good.",25,declined_card_payment,0.1
+My card declines when I pay for my meal.,133,I was just needing to know why my card got declined,25,declined_card_payment,0.1
+My card declines when I pay for my meal.,134,Whats the reason for my payment being declined? It looked like everything went through ok and my account was good.,25,declined_card_payment,0.1
+My card declines when I pay for my meal.,135,My card payment wasn't declined,25,declined_card_payment,0.1
+My card declines when I pay for my meal.,136,Please explain why my card was declined?,25,declined_card_payment,0.1
+My card declines when I pay for my meal.,137,"Hi, My card is getting declined continuously when i am trying to top-up. Request you to look into this issue or tell me any other alternatives.",59,top_up_failed,0.1
+My card declines when I pay for my meal.,138,"Hi, My card is getting declined during top-up. As it urgent, could you please resolve this issue, or guide me with other alternatives if any.",59,top_up_failed,0.1
+My card declines when I pay for my meal.,139,I don't know why my credit card was declined while I was trying to top-up. Was it something on my end or was there something wrong with the top-up function?,59,top_up_failed,0.1
+My card declines when I pay for my meal.,140,I need to know why my credit card was declined for top up? What is the deal here and why did it not go through?,59,top_up_failed,0.1
+My card declines when I pay for my meal.,141,There's a payment with my card that I didn't perform. I don't know that name shown.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,142,"A strange card payment, I do not recognize it.",16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,143,I have an unusual payment in my statement,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,144,I do not recognize the card payment.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,145,I do not recognise the card payment.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,146,my statement contains an unknown payment,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,147,A payment on my statement is wrong.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,148,There is a strange payment on my card and I don't know what to do.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,149,There is a payment on my card that I do not recognize.  I've never seen the name on the transaction before.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,150,There is a payment I don't recognize,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,151,There is a payment made with my card that I don't recognize at all.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,152,There is a payment on my card that I do not recognize.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,153,I have a card payment that I don't recognize. What should I do?,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,154,There is a weird payment in my statement.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,155,I have just read my statement and there is a payment I don't recognise.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,156,There is a strange card payment I don't recognise.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,157,There's a card payment with a name I don't recognize,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,158,There is a payment done with my card which i definitely did not do.Never seen that name before.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,159,I have an odd payment in my statement,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,160,I have a confusing payment appear on my statement and I don't recognise it!,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,161,on my statement there is a payment that I don't recognise,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,162,There is a card payment that I'm not recognizing.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,163,I have a strange payment in my statement,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,164,There is a card payment I do not recognise.,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,165,I don't recognise a card payment,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,166,In my statement there is a payment that is I do not recognize,16,card_payment_not_recognised,0.1
+My card declines when I pay for my meal.,167,I believe my card payment were reverted,53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,168,Is my card payment reverted?,53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,169,has my card payment been reverted?,53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,170,Is it possible that my card payment was reverted?,53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,171,Do you know why my card payment was reverted?,53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,172,What should I do if my card payment was cancelled?,53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,173,I cancelled my card payment,53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,174,What do I do if it says my card payment has been cancelled?,53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,175,"I'm not sure why my card payment was cancelled, can you find out why?",53,reverted_card_payment?,0.1
+My card declines when I pay for my meal.,176,Reason for my card to decline,25,declined_card_payment,0.0
+My card declines when I pay for my meal.,177,My credit card transaction was declined for a loan payment.  Can you tell me why?,59,top_up_failed,0.0
+My card declines when I pay for my meal.,178,Why do I have a strange payment on my statement?,16,card_payment_not_recognised,0.0
+My card declines when I pay for my meal.,179,There is a strange payment on my card.,16,card_payment_not_recognised,0.0
+My card declines when I pay for my meal.,180,There is an odd payment in my statement,16,card_payment_not_recognised,0.0
+My card declines when I pay for my meal.,181,There is a strange payment on my statement. What should I do?,16,card_payment_not_recognised,0.0
+My card declines when I pay for my meal.,182,Why would my card payment get reverted?,53,reverted_card_payment?,0.0
+My card declines when I pay for my meal.,183,My card payment might have been reverted.,53,reverted_card_payment?,0.0
+My card declines when I pay for my meal.,184,I believe my card payment has reverted,53,reverted_card_payment?,0.0
+My card declines when I pay for my meal.,185,Why did you cancel my card payment?,53,reverted_card_payment?,0.0
